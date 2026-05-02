@@ -1,4 +1,4 @@
-# Master's thesis_1
+# Master's thesis USI
 
 This master's thesis, titled “Impact of the Approaches Implemented in Strategies to Combat Corruption in South American Countries,” analyzes the preventive and punitive approaches adopted by Argentina, Brazil, Chile, Colombia, and Uruguay in their anti-corruption strategies between 2002 and 2022. The objective is to evaluate the effectiveness of these strategies by comparing them with corruption indicators, based on the hypothesis that countries that choose a preventive approach have managed to have a significant impact on reducing corruption levels compared to those strategies that are based only on a punitive approach.
 
